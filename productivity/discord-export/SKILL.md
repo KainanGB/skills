@@ -27,8 +27,6 @@ Use this skill when the user asks to:
 - convert a Discord chat to HTML, JSON, CSV, or plain text;
 - analyze an already exported DiscordChatExporter artifact.
 
-Do not use this skill to extract Discord cookies, scrape browser sessions, or print/store raw tokens. Assume the user already has an authorized credential configured locally.
-
 ## Portable Configuration
 
 Use these variables when paths are not already known:
